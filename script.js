@@ -8,3 +8,8 @@ function myFunction(a, b) {
 }
 myFunction(1, 2); /* answer: 3*/
 
+Node.addEventListener('click', push);
+
+function push() {
+    
+}
